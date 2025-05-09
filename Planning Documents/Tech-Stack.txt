@@ -1,0 +1,9 @@
+Tech Stack for PERSONALLY OWNED MEDIA COLLECTION (POM C).
+
+Project made using .NET MAUI framework in C# using Visual Studio 2022.
+
+Repo hosted on GitHub ... https://github.com/Coochie-Slurper/POMC
+
+Project time-management and planning done using Jira ... https://larrylemonmanprogrammingprojects.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+
+UI Wireflows done using Canva ... https://www.canva.com/design/DAGmzcwG2WE/ram03SJQCtMSLHcp2ATJjA/edit?ui=eyJBIjp7Ik8iOnsiQiI6dHJ1ZX19fQ
