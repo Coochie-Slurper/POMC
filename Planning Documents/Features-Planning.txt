@@ -1,0 +1,62 @@
+FEATURES / PLANNING.
+
+ - Four main types of media.
+	> Movies (DVDs).
+	> CDs.
+	> Books.
+	> Video games.
+
+**** 
+ - Can view a movie's ... 
+	> Title.
+	> Release date.
+	> Genre.
+	> Director.
+	> Main actors.
+	> Poster.
+	> Letterboxd / IMDB rating.
+	> Personal rating.
+	> Link to potential Letterboxd reviews of mine.
+
+ - Can view a CD's ...
+	> Title.
+	> Artist.
+	> Release date.
+	> Genre.
+	> RYM rating.
+	> Personal rating.
+
+ - Can view a book's ...
+	> Title.
+	> Author.
+	> Release date.
+	> Genre.
+	> Goodreads rating.
+	> Personal rating.
+
+ - Can view a video game's ...
+	> Title.
+	> Publisher.
+	> Release date.
+	> Genre.
+	> Platform.
+	> Steam rating.
+	> Personal rating.
+****
+
+
+ - Can view/sort entries by ... 
+	> Type of media (and through all categories therein).
+	> Genre.
+	> Release year.
+	> Director/Artist/Publisher.
+	> Alphabetical order.
+
+ - Can add/remove entries.
+	> Adding a new entry should have an "AUTOFILL" option that automatically scrubs the corresponding website and grabs that entry's info.
+	> Alternatively, users can add an entry manually.
+
+ - Settings page.
+	> Light / dark mode.
+	> Show pictures checkbox.
+	> Button to turn current database into an EXCEL document. (???)
